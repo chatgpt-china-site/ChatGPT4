@@ -33,13 +33,13 @@
 
 以下是我们精选的国内优质 **ChatGPT 中文版镜像网站**，无需翻墙就能使用：
 
-1. **[chat.yixiaai.com](https://chat.yixiaai.com)**
+1. **[chat.yixiaai.com](https://chat.lanjing.pro)**
    - **支持版本**：GPT-4, GPT-3.5, GPT-4o, o1
    - **免费额度**：有
    - **功能亮点**：支持 AI 绘画、AI 助手、AI 插件、AI PPT 等
    - **综合评分**：⭐⭐⭐⭐⭐
 
-2. **[chat.lify.vip](https://www.yixiaai.com)**
+2. **[chat.lify.vip](https://xsimplechat.com)**
    - **支持版本**：GPT-4, GPT-3.5, GPT-4o, 4o mini, o1
    - **免费额度**：有
    - **功能亮点**：支持多模型，AI 写作、AI 编程、AI 办公
@@ -51,7 +51,7 @@
    - **功能亮点**：稳定快速，各种 AI 工具
    - **综合评分**：⭐⭐⭐⭐
 
-4. **[lanjing.ai](https://lanjing.ai)**
+4. **[lanjing.ai](https://lanjing.pro)**
    - **支持版本**：GPT-4, GPT-4o
    - **免费额度**：有
    - **功能亮点**：界面简洁，适合初学者
@@ -75,7 +75,7 @@
 
 ## 如何使用 ChatGPT 中文版？
 
-1. **选择镜像网站**：访问推荐的镜像站点（如 [www.yixiaai.com](https://www.yixiaai.com)）。
+1. **选择镜像网站**：访问推荐的镜像站点（如 [chat.lanjing.pro](https://chat.lanjing.pro)）。
 2. **扫码使用**：扫码登录，进入聊天页，输入问题即可获得回答。
 3. **选择 GPT 模型**：根据需求选择 GPT-4 或 GPT-3.5。
 4. **开始对话**：畅享中文聊天体验，支持写作、编程、翻译、办公等功能。
